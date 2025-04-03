@@ -27,7 +27,3 @@ Este proyecto implementa una aplicación REST para gestionar una flota de drones
 - No se han encontrado errores críticos durante el desarrollo.
 - Se han identificado posibles mejoras en la validación de datos y manejo de solapamientos en reservas.
 
-## Instrucciones de Ejecución
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/tu_usuario/nombre-repositorio.git
